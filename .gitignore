@@ -1,0 +1,5 @@
+#Ignoring folders
+/Datasets/
+catboost_info/
+.ipynb_checkpoints/
+*reviewer*
